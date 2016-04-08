@@ -1,0 +1,14 @@
+@article{NPR15,
+author = {Nicolae, Marius and Pathak, Sudipta and Rajasekaran, Sanguthevar}, 
+title = {LFQC: a lossless compression algorithm for FASTQ files},
+volume = {31}, 
+number = {20}, 
+pages = {3276-3281}, 
+year = {2015}, 
+doi = {10.1093/bioinformatics/btv384}, 
+abstract ={Motivation: Next Generation Sequencing (NGS) technologies have revolutionized genomic research by reducing the cost of whole genome sequencing. One of the biggest challenges posed by modern sequencing technology is economic storage of NGS data. Storing raw data is infeasible because of its enormous size and high redundancy. In this article, we address the problem of storage and transmission of large FASTQ files using innovative compression techniques.Results: We introduce a new lossless non-reference based FASTQ compression algorithm named Lossless FASTQ Compressor. We have compared our algorithm with other state of the art big data compression algorithms namely gzip, bzip2, fastqz (Bonfield and Mahoney, 2013), fqzcomp (Bonfield and Mahoney, 2013), Quip (Jones et al., 2012), DSRC2 (Roguski and Deorowicz, 2014). This comparison reveals that our algorithm achieves better compression ratios on LS454 and SOLiD datasets.Availability and implementation: The implementations are freely available for non-commercial purposes. They can be downloaded from http://engr.uconn.edu/rajasek/lfqc-v1.1.zip.Contact: rajasek@engr.uconn.edu}, 
+URL = {http://bioinformatics.oxfordjournals.org/content/31/20/3276.abstract}, 
+eprint = {http://bioinformatics.oxfordjournals.org/content/31/20/3276.full.pdf+html}, 
+journal = {Bioinformatics} 
+}
+

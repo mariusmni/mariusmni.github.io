@@ -1,0 +1,16 @@
+@Article{NR15,
+AUTHOR = {Nicolae, Marius and Rajasekaran, Sanguthevar},
+TITLE = {On String Matching with Mismatches},
+JOURNAL = {Algorithms},
+VOLUME = {8},
+YEAR = {2015},
+NUMBER = {2},
+PAGES = {248},
+URL = {http://www.mdpi.com/1999-4893/8/2/248},
+ISSN = {1999-4893},
+ABSTRACT = {In this  paper, we consider several variants of the pattern matching with  mismatches problem. In particular, given a text \(T=t_1 t_2\cdots  t_n\) and a pattern \(P=p_1p_2\cdots p_m\), we investigate the following problems: (1) pattern matching with mismatches: for every \(i, 1\leq i \leq  n-m+1\) output, the distance between \(P\) and \(t_i t_{i+1}\cdots t_{i+m-1}\); and (2) pattern matching with \(k\) mismatches: output those positions \(i\) where  the distance between \(P\) and \(t_i t_{i+1}\cdots t_{i+m-1}\) is less than a given  threshold \(k\). The distance metric used is the Hamming distance.   We present some novel algorithms and techniques for solving these  problems. We offer deterministic, randomized and approximation algorithms.  We consider variants of these problems where there could be wild cards in  either the text or the pattern or both. We also present an experimental   evaluation of these algorithms. The source code is available at http://www.engr.uconn.edu/\(\sim\)man09004/kmis.zip.},
+DOI = {10.3390/a8020248}
+}
+
+
+

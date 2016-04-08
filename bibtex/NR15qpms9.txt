@@ -1,0 +1,9 @@
+@article{NR15,
+  title={qPMS9: An efficient algorithm for quorum planted motif search},
+  author={Nicolae, Marius and Rajasekaran, Sanguthevar},
+  journal={Scientific reports},
+  volume={5},
+  year={2015},
+  publisher={Nature Publishing Group}
+}
+

@@ -1,0 +1,9 @@
+@phdthesis{Nic16,
+    title = {Data Structures and Algorithms for the Identification of Biological Patterns},
+    author = {Marius Nicolae},
+    school = {University of Connecticut},
+    year = {2016},
+    address = {Storrs, CT},
+    month = {May},
+    confidential = {n}
+}

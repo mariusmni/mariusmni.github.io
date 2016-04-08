@@ -1,0 +1,10 @@
+@mastersthesis{Nic11,
+    title = {Accurate Estimation of Isoform and Gene Expression Levels from Next Generation Sequencing Data},
+    author = {Marius Nicolae},
+    school = {University of Connecticut},
+    year = {2011},
+    address = {Storrs, CT},
+    month = {September},
+    file = {Nic11.pdf},
+    confidential = {n}
+}
